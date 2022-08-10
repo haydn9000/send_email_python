@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other local test files etc
+yagmail_send_email/
+*.msg
+test_file_*
